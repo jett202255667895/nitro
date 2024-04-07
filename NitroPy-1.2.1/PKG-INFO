@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: NitroPy
+Name: Nitro
 Version: 1.2.1
-Summary: A package for interacting with the website, Nitrotype and Nitromath
-Author: Malakai
+Summary: a amazing package for every one to use called nitro very powerful update daily
+Author: jett20225566789
 Author-email: Almightyslider2@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -19,7 +19,7 @@ NitromathRacer is a Python package that allows you to retrieve and display stats
 ## Installation
 
 ```bash
-pip install NitroPy
+pip install nitro
 ```
 
 > ***Note:*** *All the attributes of NitroType and NitroMath are the same. The only difference being the couple of the datas. Races/Games, team tag, team id, profile views, friend requests, team requests, nitros used, and longest session.*

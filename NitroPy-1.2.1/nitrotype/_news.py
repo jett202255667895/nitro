@@ -20,3 +20,4 @@ class NitrotypeNews:
         self.news_last_modified = news_data.get('lastModified')
         self.news_written_by = news_data.get('writtenBy')
         self.news_short_body = news_data.get('shortBody')
+       
